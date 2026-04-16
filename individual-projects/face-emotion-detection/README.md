@@ -4,4 +4,5 @@ Facial emotion detection uses computer vision and deep learning to automatically
 
 ## My Learning
 https://olympus.mygreatlearning.com/eportfolio
+
 After evaluating both custom and pre-trained convolutional models for facial emotion recognition, the 5-layer custom CNN consistently outperformed VGG16, ResNet50, and EfficientNetB0 in terms of validation stability, test accuracy, and class-wise generalization on 48×48 grayscale dataset. Its streamlined architecture was better suited to the smaller, lower-resolution images and allowed for focused learning of emotion-relevant features without the excess overhead or overfitting tendencies of deeper transfer learning models.
