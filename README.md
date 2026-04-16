@@ -4,6 +4,9 @@
 ## Simple LLM Agent
 - individual-projects/google-llm-agent: Simple excercise to create Google LLM agent (DeepSeek model) with Library assistant role.
 
+## Street View House Number Digit Recognition
+- individual-projects/svhn-digit-recognition: Recognize house address digits from street-level photos dataset.  
+
 ## Facial Emotion Detection Project
 - individual-projects/face-emotion-detection: Demonstrate how to train CNN models to recognize facial emotions.
 
