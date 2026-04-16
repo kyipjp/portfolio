@@ -1,4 +1,4 @@
-## Group Projects
+## Fashion Try-On Group Project
 - group-projects/fashion-virtual-try-on: Attempted to load Fashion Dataset and use pre-trained Diffision Model to prove the concept of Fashion Try-On.
 
 ## Simple LLM Agent
